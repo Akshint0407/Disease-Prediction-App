@@ -1,7 +1,5 @@
-python -m pip install --upgrade pip
 streamlit
 streamlit-option-menu
-pickle
 numpy
 pandas
 scikit-learn
