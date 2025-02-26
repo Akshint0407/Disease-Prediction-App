@@ -1,6 +1,6 @@
 streamlit
 streamlit-option-menu
-pickle5
+pickle
 numpy
 pandas
 scikit-learn
