@@ -1,4 +1,5 @@
 # Disease Prediction Web Application
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-blue)](https://disease-prediction-app-erafyt5jqwsh9y6nfdr6xm.streamlit.app/)
 
 This project is a Streamlit web application that predicts the likelihood of a patient having various diseases based on user-provided health data. It uses pre-trained machine learning models to make predictions for diabetes, heart disease, Parkinson's disease, lung cancer, and hypothyroidism.
 
