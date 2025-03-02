@@ -103,5 +103,5 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the [APACHE License](LICENSE). (You may need to create a LICENSE file in your repository with the appropriate license text).
+This project is licensed under the [License](LICENSE).
 
